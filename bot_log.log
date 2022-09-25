@@ -1,0 +1,951 @@
+[07.07.2022 17:24:22] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 17:24:22] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 17:24:23] vk_to_telegramm.py:212 INFO - [App] Script went to sleep.
+[07.07.2022 17:26:04] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 17:26:04] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 17:26:05] vk_to_telegramm.py:214 INFO - [App] Script went to sleep.
+[07.07.2022 17:30:05] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 17:30:05] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 17:30:06] vk_to_telegramm.py:214 INFO - [App] Script went to sleep.
+[07.07.2022 17:34:06] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 17:34:06] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 17:34:07] vk_to_telegramm.py:214 INFO - [App] Script went to sleep.
+[07.07.2022 18:26:43] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 18:26:43] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 18:26:44] vk_to_telegramm.py:305 INFO - [App] Script went to sleep.
+[07.07.2022 18:27:56] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 18:27:56] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 18:27:57] vk_to_telegramm.py:305 INFO - [App] Script went to sleep.
+[07.07.2022 18:49:59] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 18:49:59] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 18:50:00] vk_to_telegramm.py:300 INFO - [App] Script went to sleep.
+[07.07.2022 18:51:46] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 18:51:46] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 18:51:47] vk_to_telegramm.py:300 INFO - [App] Script went to sleep.
+[07.07.2022 18:55:47] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[07.07.2022 18:55:47] vk_api.py:225 INFO - access_token from config is valid
+[07.07.2022 18:55:48] vk_to_telegramm.py:300 INFO - [App] Script went to sleep.
+[08.07.2022 11:34:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 11:34:37] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 11:34:38] vk_to_telegramm.py:300 INFO - [App] Script went to sleep.
+[08.07.2022 11:35:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 11:35:40] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 11:35:40] vk_to_telegramm.py:300 INFO - [App] Script went to sleep.
+[08.07.2022 11:36:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 11:36:40] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 11:36:41] vk_to_telegramm.py:300 INFO - [App] Script went to sleep.
+[08.07.2022 11:37:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 11:37:41] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 11:37:42] vk_to_telegramm.py:300 INFO - [App] Script went to sleep.
+[08.07.2022 11:38:24] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 11:38:24] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 11:38:25] vk_to_telegramm.py:303 INFO - [App] Script went to sleep.
+[08.07.2022 11:39:25] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 11:39:25] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 11:39:25] vk_to_telegramm.py:303 INFO - [App] Script went to sleep.
+[08.07.2022 12:44:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 12:44:40] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 12:44:40] vk_to_telegramm.py:303 INFO - [App] Script went to sleep.
+[08.07.2022 12:45:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 12:45:40] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 12:45:41] vk_to_telegramm.py:303 INFO - [App] Script went to sleep.
+[08.07.2022 12:46:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[08.07.2022 12:46:41] vk_api.py:225 INFO - access_token from config is valid
+[08.07.2022 12:46:41] vk_to_telegramm.py:303 INFO - [App] Script went to sleep.
+[12.07.2022 08:36:29] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:36:29] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:36:29] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:39:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:39:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:39:37] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:40:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:40:37] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:40:39] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:41:39] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:41:39] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:41:40] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:42:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:42:40] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:42:40] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:43:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:43:40] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:43:41] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:44:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:44:41] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:44:41] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:45:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:45:41] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:45:42] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:46:42] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:46:42] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:46:42] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:47:42] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:47:42] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:47:43] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:48:43] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:48:43] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:51:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:51:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:51:38] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:52:38] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:52:38] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:52:39] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:53:39] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:53:39] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:53:39] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:54:39] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:54:39] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:54:40] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 08:55:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 08:55:40] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 08:55:40] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 09:19:50] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:19:50] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:19:51] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 09:20:51] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:20:51] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:23:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:23:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:23:37] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 09:24:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:24:37] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:24:38] vk_to_telegramm1.py:306 INFO - [App] Script went to sleep.
+[12.07.2022 09:37:06] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:37:06] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:37:07] vk_to_telegramm1.py:311 INFO - [App] Script went to sleep.
+[12.07.2022 09:38:07] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:38:07] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:38:08] vk_to_telegramm1.py:311 INFO - [App] Script went to sleep.
+[12.07.2022 09:39:08] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:39:08] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:40:24] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:40:25] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:40:26] vk_to_telegramm1.py:311 INFO - [App] Script went to sleep.
+[12.07.2022 09:41:26] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:41:26] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:41:27] vk_to_telegramm1.py:311 INFO - [App] Script went to sleep.
+[12.07.2022 09:41:39] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:41:39] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:41:39] vk_to_telegramm1.py:313 INFO - [App] Script went to sleep.
+[12.07.2022 09:42:39] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:42:39] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:42:41] vk_to_telegramm1.py:313 INFO - [App] Script went to sleep.
+[12.07.2022 09:43:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:43:41] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:43:41] vk_to_telegramm1.py:313 INFO - [App] Script went to sleep.
+[12.07.2022 09:44:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:44:41] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:44:42] vk_to_telegramm1.py:313 INFO - [App] Script went to sleep.
+[12.07.2022 09:45:42] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:45:42] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:45:43] vk_to_telegramm1.py:313 INFO - [App] Script went to sleep.
+[12.07.2022 09:46:43] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:46:43] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:51:08] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:51:08] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:51:09] vk_to_telegramm1.py:314 INFO - [App] Script went to sleep.
+[12.07.2022 09:52:09] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:52:09] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:52:10] vk_to_telegramm1.py:314 INFO - [App] Script went to sleep.
+[12.07.2022 09:53:10] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:53:10] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:53:10] vk_to_telegramm1.py:314 INFO - [App] Script went to sleep.
+[12.07.2022 09:54:10] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:54:10] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:54:11] vk_to_telegramm1.py:314 INFO - [App] Script went to sleep.
+[12.07.2022 09:55:07] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:55:07] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:55:07] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 09:56:07] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:56:07] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:56:08] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 09:57:08] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:57:08] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:57:09] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 09:58:09] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:58:09] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:58:09] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 09:59:09] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 09:59:09] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 09:59:11] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:00:11] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:00:11] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:00:12] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:01:12] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:01:12] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:01:13] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:02:13] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:02:13] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:23:42] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:23:42] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:23:42] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:24:42] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:24:43] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:24:43] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:25:43] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:25:43] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:25:44] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:26:44] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:26:44] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:26:44] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:27:44] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:27:44] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:27:45] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:28:45] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:28:45] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:28:45] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:29:45] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:29:45] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:29:46] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:30:46] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:30:46] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:30:47] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:31:47] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:31:47] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:31:47] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:32:47] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:32:47] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:32:48] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:37:31] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:37:31] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:37:31] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:38:31] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:38:31] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:38:32] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:39:32] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:39:32] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:39:33] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:40:33] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:40:33] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:40:33] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:41:33] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:41:33] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:41:34] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:42:34] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:42:34] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:42:34] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:44:02] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:44:02] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:44:03] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:45:03] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:45:03] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:45:03] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:46:03] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:46:03] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:46:04] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:47:04] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:47:04] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:47:04] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:48:04] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:48:05] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:48:05] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:49:05] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:49:05] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:49:06] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:50:06] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:50:06] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:50:06] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:51:06] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:51:06] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:51:07] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:52:07] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:52:07] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:52:07] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:53:07] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:53:07] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:53:08] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:54:08] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:54:08] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:54:09] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:55:09] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:55:09] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:55:09] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:56:09] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:56:09] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:56:10] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:57:10] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:57:10] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:57:10] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:58:10] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:58:10] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:58:11] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 10:59:11] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 10:59:11] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 10:59:11] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:00:11] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:00:12] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:00:12] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:01:12] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:01:12] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:01:13] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:02:13] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:02:13] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:02:13] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:03:13] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:03:13] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:03:14] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:04:14] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:04:14] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:04:14] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:05:14] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:05:14] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:05:15] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:06:15] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:06:15] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:06:15] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:07:15] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:07:16] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:07:16] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:08:16] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:08:16] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:08:17] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:09:17] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:09:17] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:09:17] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:10:17] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:10:17] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:10:18] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:11:18] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:11:18] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:11:18] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:12:18] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:12:18] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:12:19] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:13:19] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:13:19] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:13:20] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:14:20] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:14:20] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:14:20] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:15:20] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:15:20] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:15:21] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:16:21] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:16:21] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:16:21] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:17:21] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:17:21] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:17:22] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:18:22] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:18:22] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:18:22] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:19:22] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:19:22] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:19:23] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:20:23] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:20:23] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:20:24] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:21:24] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:21:24] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:21:24] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:22:24] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:22:24] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:22:25] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:23:25] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:23:25] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:23:26] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:24:26] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:24:26] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:24:26] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:25:26] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:25:26] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:25:27] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:26:27] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:26:27] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:26:27] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:27:27] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:27:27] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:27:28] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:28:28] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:28:28] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:28:28] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:29:28] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:29:28] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:29:29] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:30:29] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:30:29] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:30:30] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:31:30] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:31:30] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:31:30] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:32:30] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:32:30] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:32:31] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:33:31] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:33:31] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:33:31] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:34:31] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:34:31] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:34:32] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:35:32] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:35:32] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:35:32] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:36:32] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:36:32] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:36:33] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:37:33] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:37:33] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:37:33] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:38:33] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:38:34] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:38:34] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:39:34] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:39:34] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:39:35] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:40:35] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:40:35] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:40:35] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:41:35] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:41:35] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:41:36] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:42:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:42:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:42:36] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:43:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:43:37] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:43:37] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:44:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:44:37] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:44:38] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:45:38] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:45:38] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:45:38] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:46:38] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:46:38] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:46:39] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:47:39] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:47:39] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:47:39] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:48:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:48:40] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:48:40] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:49:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:49:40] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:49:41] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:50:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:50:41] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:50:41] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:51:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:51:41] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:51:42] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:52:48] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:52:48] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:52:49] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:53:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:53:49] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:53:49] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:54:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:54:50] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:54:50] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:55:50] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:55:50] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:55:51] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:56:51] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:56:51] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:56:51] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:57:51] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:57:51] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:57:52] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:58:52] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:58:52] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:58:52] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 11:59:52] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 11:59:52] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 11:59:53] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:00:53] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:00:53] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:00:54] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:01:54] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:01:54] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:01:54] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:02:54] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:02:54] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:02:55] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:03:55] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:03:55] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:03:55] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:04:55] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:04:55] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:04:56] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:05:56] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:05:56] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:05:56] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:06:56] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:06:56] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:06:57] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:07:57] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:07:57] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:07:57] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:24:32] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:24:32] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:24:33] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:26:11] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:26:11] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:26:12] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:39:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:39:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:39:37] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:45:34] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:45:34] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:45:35] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:46:35] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:46:35] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:46:35] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:47:35] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:47:35] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:47:36] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:48:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:48:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:48:36] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:49:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:49:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:49:37] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:50:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:50:37] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:50:37] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:51:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:51:37] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:51:38] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:52:38] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:52:38] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:52:39] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:53:39] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:53:39] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:53:39] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:54:39] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:54:39] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:54:40] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:55:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:55:40] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:55:40] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:56:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:56:40] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:56:41] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:57:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:57:41] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:57:41] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:58:41] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:58:41] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:58:42] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 12:59:42] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 12:59:42] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 12:59:43] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:00:43] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:00:43] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:00:43] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:01:46] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:01:46] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:01:47] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:03:52] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:03:52] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:03:53] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:04:53] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:04:53] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:04:53] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:05:53] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:05:53] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:05:54] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:06:54] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:06:54] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:06:54] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:07:54] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:07:54] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:07:55] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:08:55] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:08:55] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:08:55] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:09:55] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:09:56] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:09:56] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:10:56] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:10:56] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:10:57] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:11:57] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:11:57] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:11:57] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:12:57] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:12:57] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:12:58] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:13:58] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:13:58] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:13:58] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:14:58] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:14:58] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:14:59] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:15:59] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:15:59] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:15:59] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:16:59] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:17:00] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:17:00] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:18:00] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:18:00] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:18:01] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:19:01] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:19:01] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:19:01] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:20:01] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:20:01] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:20:02] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:21:02] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:21:02] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:21:02] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:36:46] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:36:46] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:36:46] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:37:47] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:37:47] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:37:47] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:38:47] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:38:47] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:38:48] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:39:48] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:39:48] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:39:48] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:40:48] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:40:48] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:40:49] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:41:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:41:49] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:41:49] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:42:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:42:49] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:42:50] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:43:50] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:43:50] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:43:51] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:53:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:53:49] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:53:49] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:58:44] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:58:44] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:58:44] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 13:59:44] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 13:59:44] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 13:59:45] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:00:45] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:00:45] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:00:45] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:01:45] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:01:45] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:01:46] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:02:46] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:02:46] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:02:46] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:03:46] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:03:46] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:03:47] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:04:47] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:04:47] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:04:48] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:05:48] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:05:48] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:05:48] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:06:48] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:06:48] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:06:49] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:07:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:07:49] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:07:49] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:08:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:08:49] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:08:50] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:09:50] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:09:50] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:09:51] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:10:51] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:10:51] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:10:51] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:11:51] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:11:51] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:11:52] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:12:52] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:12:52] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:12:52] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:13:52] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:13:52] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:13:53] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:14:53] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:14:53] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:14:53] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:15:53] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:15:53] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:15:54] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:16:54] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:16:54] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:16:55] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:17:55] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:17:55] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:17:55] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:18:55] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:18:55] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:18:56] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:19:56] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:19:56] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:19:56] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:20:56] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:20:56] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:20:57] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:21:57] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:21:57] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:21:58] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:22:58] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:22:58] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:22:58] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:23:58] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:23:58] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:23:59] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:24:59] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:24:59] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:24:59] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:25:59] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:25:59] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:26:00] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:27:00] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:27:00] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:27:00] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:28:00] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:28:01] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:28:01] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:29:01] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:29:01] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:29:02] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:30:02] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:30:02] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:30:02] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:31:02] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:31:02] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:31:03] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:32:03] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:32:03] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:32:04] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:33:04] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:33:04] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:33:04] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:34:33] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:34:33] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:34:33] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:39:26] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:39:26] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:39:26] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:40:26] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:40:26] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:40:27] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:41:27] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:41:27] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:41:28] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:42:28] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:42:28] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:42:29] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:43:29] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:43:29] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:43:30] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:44:30] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:44:30] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:44:31] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:45:31] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:45:31] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:45:32] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:46:22] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:46:22] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:46:23] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:47:23] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:47:23] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:47:24] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:48:24] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:48:24] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:48:25] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:49:25] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:49:25] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:49:25] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:50:25] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:50:25] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:50:26] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:50:58] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:50:58] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:50:58] vk_to_telegramm1.py:316 INFO - [App] Script went to sleep.
+[12.07.2022 14:51:58] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:51:58] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:51:59] vk_to_telegramm1.py:316 INFO - [App] Script went to sleep.
+[12.07.2022 14:52:59] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:52:59] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:56:02] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:56:03] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:56:23] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:56:23] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:58:03] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:58:03] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:58:05] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 14:59:05] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 14:59:05] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 14:59:05] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:00:05] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:00:05] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:00:06] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:01:06] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:01:06] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:01:07] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:02:07] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:02:07] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:02:08] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:03:08] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:03:08] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:03:08] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:04:08] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:04:08] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:04:09] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:05:09] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:05:09] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:05:09] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:06:01] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:06:02] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:06:02] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:07:02] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:07:02] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:07:03] vk_to_telegramm1.py:315 INFO - [App] Script went to sleep.
+[12.07.2022 15:08:03] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:08:04] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:14:16] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:14:16] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:15:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:15:49] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:17:21] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:17:21] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:19:49] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:19:49] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:19:50] vk_to_telegramm1.py:314 INFO - [App] Script went to sleep.
+[12.07.2022 15:20:50] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:20:50] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:20:50] vk_to_telegramm1.py:314 INFO - [App] Script went to sleep.
+[12.07.2022 15:21:50] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:21:50] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:21:51] vk_to_telegramm1.py:314 INFO - [App] Script went to sleep.
+[12.07.2022 15:23:16] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:23:16] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:24:28] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:24:28] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:32:13] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:32:13] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:45:13] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:45:13] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:46:09] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:46:10] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:47:28] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:47:28] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 15:48:56] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 15:48:56] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:00:27] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:00:27] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:05:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:05:37] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:08:42] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:08:42] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:11:40] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:11:40] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:12:26] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:12:26] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:12:51] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:12:51] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:14:42] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:14:42] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:18:14] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:18:14] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:21:13] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:21:13] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:21:19] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:22:19] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:22:19] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:22:19] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:23:20] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:23:20] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:23:20] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:24:20] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:24:20] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:24:21] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:25:21] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:25:21] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:25:22] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:26:22] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:26:22] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:26:22] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:27:22] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:27:22] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:27:23] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:28:23] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:28:23] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:28:24] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:29:24] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:29:24] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:29:24] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:30:24] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:30:25] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:30:25] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:31:25] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:31:25] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:31:26] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:32:26] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:32:26] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:32:27] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:33:27] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:33:27] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:33:27] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:34:27] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:34:27] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:34:28] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:35:28] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:35:28] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:35:29] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:36:29] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:36:29] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:36:29] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:37:29] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:37:29] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:37:30] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:38:30] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:38:30] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:38:31] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:39:31] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:39:31] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:39:31] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:40:31] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:40:31] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:40:32] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:41:32] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:41:32] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:41:33] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:42:33] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:42:33] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:42:33] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:43:33] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:43:34] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:43:34] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:44:34] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:44:34] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:44:35] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:45:35] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:45:35] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:45:35] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:46:35] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:46:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:46:36] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:47:36] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:47:36] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:47:37] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:48:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:48:37] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:48:37] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:49:37] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:49:38] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:49:38] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:50:38] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:50:38] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:50:39] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:53:20] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:53:20] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:53:20] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:54:20] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:54:21] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:54:21] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.
+[12.07.2022 16:55:21] vk_api.py:171 INFO - Auth with login: gregorperegon@gmail.com
+[12.07.2022 16:55:21] vk_api.py:225 INFO - access_token from config is valid
+[12.07.2022 16:55:22] vk_to_telegramm1.py:346 INFO - [App] Script went to sleep.

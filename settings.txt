@@ -1,0 +1,16 @@
+[Settings]
+last_id = 38
+include_link = true
+preview_link = false
+
+[VK]
+login = gregorperegon@gmail.com
+password = H13g56Hgeo768hV
+domain = piivt
+count = 30
+token = vk1.a.kXi2aRpgujsWIL31ZYirXNfzBZx02q8YPmFwehNepOmBtf8V86VuW23IsS1kHMBUPh8edTf3KRpU4cHmTXYn2IqSKFDpeY05DLeKobbl8N7sssf7zCZLSvqv315rZue4cRPH7Svs5w4n1DAxaHDSOVpkvVDG_Dd_YJihGZ5coIlzjUqYJB6HXeN2_YlVlC_v
+
+[Telegram]
+bot_token = 5488009514:AAHVjxmAFZybwLMQxI0KSgis1CG_9LxKpTE
+channel = @testerbonch
+
